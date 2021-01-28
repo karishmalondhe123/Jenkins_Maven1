@@ -63,5 +63,11 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <distributionManagement>
+	<repository>
+	    <id>dropbox.repo</id>
+	    <url>file:///C:/Users/acer/Dropbox</url>
+	</repository>
+    </distributionManagement>
 
 </project>
